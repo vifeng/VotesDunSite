@@ -7,13 +7,19 @@ Un éditeur souhaite recueillir les votes des utilisateurs concernant les recet
 
 Fonctionnalités du programme :
 ---
-  Afficher la liste des recettes dans l’ordre d’apparition du livre (enregistrées directement dans le programme)
-  Afficher la note d’une recette
-  Enregistrer une nouvelle note pour une recette
-  Affichage des notes par moyenne avec le nombre d'avis.
-  Trier les recettes par ordre décroissant ou croissant des notes de recettes.
-  Possiblité d'ajouter et de retirer des recettes.
-  Quitter le programme
+  • Afficher la liste des recettes dans l’ordre d’apparition du livre (enregistrées directement dans le programme)
+  
+  • Afficher la note d’une recette
+  
+  • Enregistrer une nouvelle note pour une recette
+  
+  • Affichage des notes par moyenne avec le nombre d'avis.
+  
+  • Trier les recettes par ordre décroissant ou croissant des notes de recettes.
+  
+  • Possiblité d'ajouter et de retirer des recettes.
+  
+  • Quitter le programme
   
   
 Contribute / Contact
